@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Omansh Shukla
+
 <!--
 **OmanshShukla/OmanshShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
