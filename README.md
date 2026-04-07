@@ -1,13 +1,4 @@
-## Hi there 👋
-
-I am Omansh Shukla
-
-<!--
-**OmanshShukla/OmanshShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>Vehicle Detection System using Computer Vision techniques (Object Detection & Image Processing)<br><br>👯 I’m looking to collaborate on<br>AI/ML and Computer Vision projects, especially real-world applications like traffic analysis or smart systems<br><br>🤝 I’m looking for help with<br>Improving DSA fundamentals, optimizing algorithms, and learning advanced Computer Vision models (like YOLO, OpenCV optimization)<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Computer Vision, NLP, and core subjects like Operating Systems & Web Technologies
 
 
@@ -30,12 +21,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=OmanshShukla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
